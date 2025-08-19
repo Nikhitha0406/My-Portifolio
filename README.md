@@ -32,6 +32,7 @@ npm run build
 # Then push the `dist/` folder to GitHub Pages (or use a deploy tool)
 📬 Contact
 Feel free to reach out via [your email or LinkedIn link].
+
 Made with ❤️ by Nikhitha0406:
 
 ✅ Let me know if you'd like:
