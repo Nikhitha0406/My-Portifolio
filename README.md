@@ -1,73 +1,41 @@
-# Welcome to your  project
+# 💼 Portfolio Website
+This is my personal portfolio website built with React, Vite, Tailwind CSS, and shadcn/ui. It showcases my projects, skills, and education.
 
-## Project info
+## 🔗 Live Site
+👉 [https://nikhitha0406.github.io/my-portfolio/](https://nikhitha0406.github.io/my-portfolio/)
 
-**URL**: https://.dev/projects/3a09f4b9-95e2-4053-9157-f3e6c427815f
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use **
-
-Simply visit the [ Project](https://.dev/projects/3a09f4b9-95e2-4053-9157-f3e6c427815f) and start prompting.
-
-Changes made via  will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in .
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
+## 🛠️ Tech Stack
 - React
-- shadcn-ui
+- TypeScript
+- Vite
 - Tailwind CSS
+- shadcn/ui
+## 🚀 Getting Started
+To run this project locally:
+# Clone the repository
+git clone https://github.com/Nikhitha0406/my-portfolio.git
+# Navigate to the project folder
+cd my-portfolio
+# Install dependencies
+npm install
+📁 Features
+Responsive and clean UI
+Downloadable resume/CV
+Projects and education sections
+Contact options
+🌍 Deployment
+This project is deployed on GitHub Pages.
+To deploy manually:
+# Start the development server
+npm run dev
+npm run build
+# Then push the `dist/` folder to GitHub Pages (or use a deploy tool)
+📬 Contact
+Feel free to reach out via [your email or LinkedIn link].
+Made with ❤️ by Nikhitha0406:
 
-## How can I deploy this project?
+✅ Let me know if you'd like:
+- A **screenshot section**  
+- To replace GitHub Pages with **Vercel** or other deployment details  
+- A **downloadable file** version of this README
 
-Simply open [](https://.dev/projects/3a09f4b9-95e2-4053-9157-f3e6c427815f) and click on Share -> Publish.
-
-## Can I connect a custom domain to my  project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs..dev/tips-tricks/custom-domain#step-by-step-guide)
